@@ -1,0 +1,6 @@
+{
+  "name": "Tourist Guidelines Master",
+  "description": "Comprehensive tourist guidelines for exploring Kerala, Tamil Nadu, and India. Discover verified attractions, hotels, local cuisine, travel routes, and room amenities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
